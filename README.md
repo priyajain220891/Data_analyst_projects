@@ -1,7 +1,13 @@
 # Data_analyst_projects:
 Streaming_Service_Data_Exploration_And_Visualization
+
 Retail_Customer_Purchase_Analysis
+
 Treadmill_Customer_Profile_And_Probability_Analysis
+
 hypothesis_Testing_For_Cycle_Demand_Analysis
+
 Jamboree_Linear_Regression
+
 Loantap
+
